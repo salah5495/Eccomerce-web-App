@@ -8,7 +8,7 @@ const products = [
   {
     id: 2,
     name: "Iphone",
-    description: "iPhone 14 Pro Max 128GB()",
+    description: "iPhone 14 Pro Max 128GB",
     price: 1500,
   },
   {
