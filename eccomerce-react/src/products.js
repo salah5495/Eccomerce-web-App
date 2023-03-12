@@ -2,7 +2,7 @@ const products = [
   {
     id: 1,
     name: "Samsung ",
-    description: "Galaxy S23 Ultra 512GB - Green",
+    description: "Samasung Galaxy S23 Ultra 512GB - Green",
     price: 1632.22,
   },
   {
