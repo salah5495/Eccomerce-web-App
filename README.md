@@ -1,1 +1,1 @@
-# Eccomerce react app
+# Eccomerce React app
